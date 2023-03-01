@@ -1,0 +1,22 @@
+body {
+    font-family: arial;
+}
+h1, h2 {
+    color: aquamarine;
+}
+ul li a {
+    color: darkcyan;
+}
+ol li a {
+    color: maroon;
+}
+a {
+    color: darkgoldenrod;
+}
+
+#p1 {
+    color: orange;
+}
+.p2 {
+    color: violet;
+}
