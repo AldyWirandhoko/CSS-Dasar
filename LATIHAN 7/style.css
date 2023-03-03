@@ -1,0 +1,6 @@
+ul#sarapan li {
+    color: aquamarine;
+}
+ul#sarapan li.favorit {
+    color: red;
+}
