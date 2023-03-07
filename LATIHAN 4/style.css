@@ -6,4 +6,7 @@ h1{
 }
 p{
     color: rgb(197, 233, 233);
+    margin: 20px;
+    border: 2px;
+    border-radius: 100px 0 0 0;
 }
